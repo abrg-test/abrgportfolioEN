@@ -11,7 +11,6 @@ Below is the list of websites used for reporting issues and improvement tickets:
 * https://academybugs.com/find-bugs/
 * https://demo.prestashop.com/#/en/front
 * https://shop.polymer-project.org/
-* https://bookcart.azurewebsites.net/
 > ### **Ticket reporting content layout:**
 - Issue ID / Title
 - Description
