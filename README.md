@@ -6,7 +6,6 @@ This repository is a collection of my QA practice and skillset.
 The X project is an imaginary tool and database for crafters to better match a given material :yarn: with a specific creation depending on the material caracteristics and technical requirements of said creation. User Stories, acceptance tests and end to end test flows for this project are recorded in the X folder.
 ## Resources
 Below is the list of websites used for reporting issues and improvement tickets:
-* https://demo.prestashop.com/#/en/front
 * https://qa-practice.netlify.app/
 * http://testingchallenges.thetestingmap.org/
 * https://academybugs.com/find-bugs/
