@@ -8,8 +8,9 @@ The X project is an imaginary tool and database for crafters to better match a g
 Below is the list of websites used for reporting issues and improvement tickets:
 * https://qa-practice.netlify.app/
 * http://testingchallenges.thetestingmap.org/
-* https://academybugs.com/find-bugs/
 * https://shop.polymer-project.org/
+* https://sweetshop.netlify.app/
+* https://www.shino.de/parkcalc/
 > ### **Ticket reporting content layout:**
 - Issue ID / Title
 - Description
