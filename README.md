@@ -12,7 +12,6 @@ Below is the list of websites used for reporting issues and improvement tickets:
 - Issue ID / Title
 - Description
 - Environment
-- Pre-conditions
 - Steps to reproduce
 - Expected result
 - Actual result
