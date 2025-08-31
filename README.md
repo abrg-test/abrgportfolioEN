@@ -8,13 +8,3 @@ The Yarnder project is an imaginary tool and database for crafters to better mat
 Below is the list of websites used for reporting issues and improvement tickets:
 * https://qa-practice.netlify.app/
 * https://sweetshop.netlify.app/
-> ### **Ticket reporting content layout:**
-- Issue ID / Title
-- Description
-- Environment
-- Steps to reproduce
-- Expected result
-- Actual result
-- Type Label (FrontEnd / BackEnd)
-- Priority Label (Critical / High / Medium / Low)
-- Screenshots / Video recordings
