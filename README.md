@@ -1,5 +1,7 @@
 # Audrey Borrego's portfolio
 This repository is a collection of my QA practice and skillset.
+
+[Version FR 🇫🇷](https://github.com/abrg-test/abrgportfolioFR)
 ## About me
 🙌 I am a beginner QA tester passionate about improving products and user experience. 
 ### [Linkedin](https://www.linkedin.com/in/audrey-borrego-08a52095/)
