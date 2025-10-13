@@ -1,7 +1,7 @@
 # Audrey Borrego's portfolio
 This repository is a collection of my QA practice and skillset.
 
-You will find an example a Test Plan under the Yarnder project as well as examples of ticket reports under the Issues tab.
+You will find a Test Plan example under the Yarnder project as well as examples of ticket reports under the Issues tab.
 
 [Version FR 🇫🇷](https://github.com/abrg-test/abrgportfolioFR)
 ## About me
