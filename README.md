@@ -10,7 +10,7 @@ You will find a Test Plan example under the Yarnder project as well as examples 
 🙌 I am a beginner QA tester passionate about improving products and user experience. 
 ### [Linkedin](https://www.linkedin.com/in/audrey-borrego-08a52095/)
 ## Yarnder Project
-Yarnder is an imaginary tool and database for crafters to better match a given thread :yarn: with a specific project depending on the material characteristics and technical requirements of said creation. User Stories, acceptance criteria and test flows for this project are recorded in the Yarnder files.
+Yarnder is an imaginary tool and database for crafters to better match a given thread :yarn: with a specific project depending on the material characteristics and technical requirements of said project. User Stories, acceptance criteria and test flows for this project are recorded in the Yarnder files.
 ### Yarnder:
 [Project](https://github.com/abrg-test/abrgportfolioEN/blob/main/Yarnder%20project.EN.pdf) & [Test plan](https://github.com/abrg-test/abrgportfolioEN/blob/main/Yarnder%20Test%20plan.EN.pdf)
 ## Resources
