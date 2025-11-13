@@ -15,5 +15,5 @@ Yarnder is an imaginary tool and database for crafters to better match a given t
 [Project](https://github.com/abrg-test/abrgportfolioEN/blob/main/Yarnder%20project.EN.pdf) & [Test plan](https://github.com/abrg-test/abrgportfolioEN/blob/main/Yarnder%20Test%20plan.EN.pdf)
 ## Resources
 Below is the list of websites used for reporting issues and improvement tickets:
-* https://qa-practice.netlify.app/
+* https://qa-practice.razvanvancea.ro/bugs-form.html
 * https://sweetshop.netlify.app/
